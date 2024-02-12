@@ -3,6 +3,15 @@
 > [!TIP]
 > Follow to support me
 
+> [!NOTE]
+> My PC
+> Ryzen 5 7500F 5.0GHz
+> RTX 3060 12GB
+> RAM 32GB DDR5 6000MHz
+> SSD 1TB
+> PSU 650W
+
+
 <!--
 **yusuf-pertex/yusuf-pertex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
