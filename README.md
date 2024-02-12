@@ -3,8 +3,7 @@
 > [!TIP]
 > Follow to support me
 
-> [!NOTE]
-> My PC
+### My PC
 - Ryzen 5 7500F 5.0GHz
 - RTX 3060 12GB
 - RAM 32GB DDR5 6000MHz
