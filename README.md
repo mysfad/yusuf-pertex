@@ -3,10 +3,13 @@
 > [!TIP]
 > Follow to support me
 
-### My Project Files
+### My Project File's
 | Project | Download |
 | --- | --- |
 | Undefined | Undefined |
+
+> [!IMPORTANT]
+> This Project File's is 100% free
 
 ### Software's
 - Adobe After Effects CC 2023
@@ -19,18 +22,3 @@
 - RAM 32GB DDR5 6000MHz
 - SSD 1TB
 - PSU 650W
-
-<!--
-**yusuf-pertex/yusuf-pertex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
