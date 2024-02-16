@@ -6,7 +6,7 @@
 ### My Project File's
 | Project's | Download |
 | --- | --- |
-| ![1](./media/image/e3d.jpg) | ![1](./media/file/e3d.aep) |
+| ![1](./media/image/e3d.jpg) | [**`Download`**](./media/file/e3d.aep) |
 
 > This Project File's is 100% free
 
