@@ -12,8 +12,7 @@
 > This Project File's is 100% free
 
 <details>
-<summary><h3>About Me</h3></summary>
-<div markdown="1">
+<summary>About Me</summary>
   
 **Software's**
 - Adobe After Effects CC 2023
