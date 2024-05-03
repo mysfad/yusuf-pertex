@@ -3,14 +3,6 @@
 > [!TIP]
 > Follow [**`@pertex.aep`**](https://www.instagram.com/pertex.aep) to support me
 
-### My Project File's
-| Project's | Download |
-| --- | --- |
-| ![1](./media/image/e3d.jpg) | [**`Download`**](./media/file/e3d.aep) |
-
-> [!NOTE]
-> This Project File's is 100% free
-
 <details>
 <summary>About Me</summary>
   
