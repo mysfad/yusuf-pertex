@@ -3,9 +3,8 @@
 > [!TIP]
 > Follow [**`@pertex.aep`**](https://www.instagram.com/pertex.aep) to support me
 
-<details>
-<summary>About Me</summary>
-  
+*About Me*
+
 **Software's**
 - Adobe After Effects CC 2023
 - Adobe Photoshop CC 2020
@@ -18,6 +17,3 @@
 - RAM 32GB DDR5 6000MHz
 - SSD 1TB
 - PSU 650W
-
-</div>
-</details>
