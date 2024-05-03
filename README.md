@@ -3,7 +3,7 @@
 > [!TIP]
 > Follow [**`@pertex.aep`**](https://www.instagram.com/pertex.aep) to support me
 
-*About Me*
+**About Me**
 
 **Software's**
 - Adobe After Effects CC 2023
