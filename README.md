@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 > [!TIP]
-> Follow [**`@pertex.aep`**](https://www.instagram.com/pertex.aep) to support me
+> Follow [**`@yusuf.dkv`**](https://www.instagram.com/yusuf.dkv) to support me
 
 **About Me**
 
 **Software's**
-- Adobe After Effects CC 2023
+- Adobe After Effects CC 2024
 - Adobe Photoshop CC 2020
 - Blender 3D
-- Unreal Engine 5.3.2
+- Unreal Engine 5.4.2
 
 **My PC Spec**
 - Ryzen 5-7500F 5.0GHz
